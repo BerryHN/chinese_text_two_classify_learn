@@ -1,0 +1,3 @@
+model_checkpoint_path: "/Users/zhiren1111/PycharmProjects/chinese_text_two_classify/runs/1516847383/checkpoints/model-200"
+all_model_checkpoint_paths: "/Users/zhiren1111/PycharmProjects/chinese_text_two_classify/runs/1516847383/checkpoints/model-100"
+all_model_checkpoint_paths: "/Users/zhiren1111/PycharmProjects/chinese_text_two_classify/runs/1516847383/checkpoints/model-200"
